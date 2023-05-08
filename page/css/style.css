@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  font-size: 20px;
+  color: rgb(243, 240, 239);
+}
+form {
+  font-size: 30px;
+  color: red;
+}
+body {
+  text-align: center;
+  background-color: rgb(24, 126, 199);
+}
+img {
+  width: 300px;
+  padding: 5px;
+}
+
+a {
+  color: rgb(9, 206, 16);
+}
+.login-here {
+  font-size: 20px;
+  color: black;
+  text-align: end;
+}
+#register {
+  font-size: 25px;
+  color: white;
+}
